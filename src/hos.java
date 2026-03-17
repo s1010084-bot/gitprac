@@ -1,3 +1,3 @@
 public class hos {
-    //lornal
+    //lornal is great
 }
