@@ -7,6 +7,6 @@ public class Main {
 
 
         for (int i=0; i< 10; i++){
-            System.out.println("Starbucks coffee is ok");
+            System.out.println("Starbucks coffee is very ok");
         }
     }}
